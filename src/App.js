@@ -24,7 +24,7 @@ console.log(editData , "editData")
   return (
     <div>
        <Game />
-       {/* Counter : {counter}
+       {/* Counter : {counter`}
        <button onClick={handleClick}>Click</button> */}
        {/* <CreatePost setCreatePost={setCreatePost} editData={editData} seteditData={seteditData}/>
        <DisplayPosts editData={editData} seteditData={seteditData}/> */}
